@@ -1,0 +1,173 @@
+.container {
+  margin: 0 auto;
+  padding: 10px 0;
+  width: auto;
+}
+
+nav {
+  background-color: #c12127;
+  color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  height: 15px;
+}
+
+nav a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+}
+
+nav div a,
+span {
+  font-family: OpenSans;
+  text-justify: up;
+}
+.top-links {
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+  text-align: right;
+}
+
+.top-left {
+  display: inline-block;
+}
+
+.clear {
+  clear: both;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float:left
+}
+
+.form {
+  display: block;
+  color: transparent;
+  width: 60%;
+  padding: 5px;
+  background-color: rgb(31, 82, 111);
+  border: 1px solid whitesmoke;
+  -webkit-appearance: none
+
+}
+
+
+.build {
+  width: 55%;
+  margin:auto
+  
+}
+
+.header {
+  background-image: url("/Users/tomburton/Desktop/Ironhack/Pre-Work/HTML-CSS/lab-html-module-exercise/starter-code/images/forklift.svg");
+  background-size: cover;
+  color: white
+}
+
+.button {
+  background: rgb(240, 146, 51);
+  border: 1px solid grey;
+  color: inherit;
+  margin-top: auto;
+  padding: 5px;
+  width: 17%;
+  cursor:pointer;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Radio;
+}
+
+ .button:hover {
+      background-color: #008CBA;
+      color: white;
+ }
+
+#npmorg.backstyle {
+
+  color: white;
+  background-color: rgb(29,53,71);
+  margin:auto;
+  padding: 30px 20%
+}
+
+#npmorg .orgdiv {
+  width: 40%
+}
+
+.orclass {
+  text-align: center;
+  color: white;
+  text-decoration: none
+}
+.orclass:hover {
+  text-decoration: underline
+}
+
+#npmord img {
+  floa
+}
+
+.buttonorgs {
+  background: rgb(203, 56, 55);
+  border: 1px solid grey;
+  color: inherit;
+  margin-top: auto;
+  padding: 5px;
+  width: 100%;
+  cursor:pointer;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Radio;  
+  display: block;
+}
+
+.whatbackground {
+  background-size: cover;
+  background-color: steelblue;
+  background-image:url("/Users/tomburton/Desktop/Ironhack/Pre-Work/HTML-CSS/lab-html-module-exercise/starter-code/images/city-scape.svg")
+}
+
+#npmwhat div {
+
+  padding: 5% 50% 5% 23%;
+  color: white;
+
+}
+
+#npmwhat button {
+    background: rgb(49, 68, 88);
+  border: 1px solid grey;
+  color: white;
+  margin-top: auto;
+  padding: 5px;
+  width: 30%;
+  cursor:pointer;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Radio;  
+  
+}
+
+#npmtask .textformat {
+  margin: 0 auto;
+  padding: 0 25%;
+  text-align: center
+}
+
+#npmtask .sectionformat {
+  width: 33%;
+  padding: 0 0%;
+  text-align: center
+}
+
