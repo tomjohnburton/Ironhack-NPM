@@ -105,7 +105,7 @@ span {
   background: rgb(31, 82, 111);
   height: 600px;
   color: white;
-  background-image: url("/Users/tomburton/Desktop/Ironhack/Pre-Work/HTML-CSS/npm/ironhacklearning/city-scape.svg")
+  background-image: url("images/city-scape.svg")
 }
 
 h1 {
@@ -196,7 +196,7 @@ h1 {
   background-size: cover;
   height: 500px;
   background-color: steelblue;
-  background-image: url("/Users/tomburton/Desktop/Ironhack/Pre-Work/HTML-CSS/npm/ironhacklearning/forklift.svg")
+  background-image: url("images/forklift.svg")
 }
 
 #npmwhat div {
